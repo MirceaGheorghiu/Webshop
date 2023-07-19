@@ -10,6 +10,6 @@ This project is about testing a Webshop (e-commerce website), going through all 
 
 Specific testing types and techniques are used.
 
-Both manual and automatic tests were created and executed.
+Both manual and automatic tests are created and executed.
 
-Test status reports were created and Bugs were reported.
+Test status reports are created and Bugs are reported.
